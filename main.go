@@ -1,3 +1,5 @@
+// Name: Jaskarn Singh EUID: js2411
+// This was made with the assistance of claude. 
 // kvstore - persistent key-value store using an append-only log (data.db).
 // Commands (via STDIN):
 //
